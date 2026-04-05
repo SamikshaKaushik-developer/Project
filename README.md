@@ -1,4 +1,4 @@
-##Sample Superstore Analytics – Tableau Deep Dive
+## Sample Superstore Analytics – Tableau Deep Dive
 🎓 IIT Jodhpur (IITJ) Project | Guided by: K Mithun
 This repository contains a comprehensive analytical study of the Sample Superstore dataset using Tableau. The project focuses on transforming raw retail data into actionable business intelligence through advanced visualization techniques, ranging from univariate analysis to geospatial mapping and trend forecasting.
 
