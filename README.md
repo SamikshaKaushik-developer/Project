@@ -6,15 +6,15 @@ This repository contains a comprehensive analytical study of the Sample Supersto
 The goal of this project was to identify "Profit Leaks" and "Sales Drivers" within a multi-regional retail environment. Under the mentorship of K Mithun, I developed a series of interactive dashboards that allow stakeholders to drill down from high-level categories to specific transactional outliers.
 
 ## 🛠️ Technical Skills Demonstrated
-# Geospatial Analysis: Mapping profit/loss by state with custom geocoding.
+Geospatial Analysis: Mapping profit/loss by state with custom geocoding.
 
-# Bivariate Analysis: Sales vs. Profit scatter plots with automated clustering.
+Bivariate Analysis: Sales vs. Profit scatter plots with automated clustering.
 
-# Advanced Reporting: Pivot tables with Conditional Formatting and Separate Color Legends.
+Advanced Reporting: Pivot tables with Conditional Formatting and Separate Color Legends.
 
-# Drill-Down Logic: Creating custom hierarchies (Category > Sub-Category) for granular insights.
+Drill-Down Logic: Creating custom hierarchies (Category > Sub-Category) for granular insights.
 
-# Time Series Forecasting: Implementing trend lines and 3-month sales projections.
+Time Series Forecasting: Implementing trend lines and 3-month sales projections.
 
 ## 📊 Key Insights Found
 1. The "Furniture" Paradox
